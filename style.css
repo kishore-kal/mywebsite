@@ -1,0 +1,41 @@
+.heading{
+    color: #FBD258;
+    font-family: "lobster",monospace;
+    padding-left: 50px;
+}
+.menu{
+  color: #FBD258;
+  font-size: 20px;
+  font-family: "courier";
+
+}
+.thumb-image{
+    border: solid  #e67300;
+    border-radius: 50%;
+    border-width: thick;
+}
+.image{
+    margin-right: 1000px;
+}
+.intro{
+    margin: 50px 50px 50px 50px;
+    background-color: #242325;
+    color: green;
+    padding-left: 0px;
+    font-size: 24px;
+    font: monospace;
+
+}
+p{
+    color: rgb(34,ca,23);
+    font-family: 'Arvo',sans-serif;
+    padding-left: -25px;
+}
+.talion{
+    border-radius: 18px;
+    padding-left: 0px;
+}
+img{
+    max-width: 300px;
+    padding-left: 100px;
+}
